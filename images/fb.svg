@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="350px" height="350px" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.2 (7799) - http://www.bohemiancoding.com/sketch -->
+    <title>4_white_transparent</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="white" sketch:type="MSLayerGroup" fill="#FFFFFF">
+            <path d="M233,63.4982012 L233,100.608371 C220.554286,100.493845 218.281633,100.715769 209.244898,100.608371 C197.584082,100.46976 190.83102,106.334642 190.899347,119.319023 C190.899347,127.041379 190.818776,138.852489 190.877551,146.81176 L231.530612,146.81176 C229.816327,160.572998 228.102041,174.33571 226.387755,188.099896 L190.877551,188.099896 L190.877551,294.023625 L148.510204,294.023625 L148.510204,188.099896 L113,188.099896 L113,146.81176 C124.835673,146.81176 136.674776,146.81176 148.513143,146.145989 C148.572653,115.882277 148.310122,104.314472 149.979592,100.608371 C155.266939,78.170235 171.644,63.5131927 196.510204,62.0236249 C201.57102,61.9417859 206.388163,62.1054639 211.44898,62.0236249 L233,63.4982012 Z" id="Color_Fill_1-5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
