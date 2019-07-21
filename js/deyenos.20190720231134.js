@@ -3,7 +3,7 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js13').attr('src', (dpi>1) ? 'images/eyevision_icon-400.png' : 'images/eyevision_icon-200.png');};
+r=function(){dpi=window.devicePixelRatio;$('.js13').attr('src', (dpi>1) ? 'images/deynos-logo2-400.jpeg' : 'images/deynos-logo2-200.jpeg');};
 if(!window.HTMLPictureElement){r();}
 if(! document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
 $('.js14').attr('src', 'images/twitter-55.png');

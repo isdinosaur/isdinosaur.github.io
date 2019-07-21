@@ -5,7 +5,7 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 $(document).ready(function() {
 r=function(){dpi=window.devicePixelRatio;$('.js4').attr('src', (dpi>1) ? 'images/deynos-logo2-134.jpeg' : 'images/deynos-logo2-67.jpeg');
 $('.js5').attr('src', (dpi>1) ? 'images/eyevision_icon-134.png' : 'images/eyevision_icon-67.png');
-$('.js6').attr('src', (dpi>1) ? 'images/appicon-134.png' : 'images/appicon-67.png');
+$('.js6').attr('src', (dpi>1) ? 'images/eyetranslate-icon-134.png' : 'images/eyetranslate-icon-67.png');
 $('.js7').attr('src', (dpi>1) ? 'images/pce_headshot3-114.jpg' : 'images/pce_headshot3-57.jpg');};
 if(!window.HTMLPictureElement){r();}
 if(! document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {

@@ -3,11 +3,11 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js20').attr('src', (dpi>1) ? 'images/eyevision_icon-142.png' : 'images/eyevision_icon-71.png');};
+r=function(){dpi=window.devicePixelRatio;$('.js10').attr('src', (dpi>1) ? 'images/pce_headshot3-114.jpg' : 'images/pce_headshot3-57.jpg');};
 if(!window.HTMLPictureElement){r();}
 if(! document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
-$('.js21').attr('src', 'images/twitter-55.png');
-$('.js22').attr('src', 'images/fb-47.png');
+$('.js11').attr('src', 'images/twitter-55.png');
+$('.js12').attr('src', 'images/fb-47.png');
 
 }
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
