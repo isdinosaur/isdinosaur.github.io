@@ -1,6 +1,7 @@
 (function(d){var h=[];d.loadImages=function(a,e){"string"==typeof a&&(a=[a]);for(var f=a.length,g=0,b=0;b<f;b++){var c=document.createElement("img");c.onload=function(){g++;g==f&&d.isFunction(e)&&e()};c.src=a[b];h.push(c)}}})(window.jQuery);
 $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof attr !== typeof undefined && attr !== false; };
 
+function em1(){var c="dpoubduAjtejoplf/dpn";var addr="mailto:";for(var i=0;i<c.length;i++)addr+=String.fromCharCode(c.charCodeAt(i)-1);window.location.href=addr;}
 
 $(document).ready(function() {
 r=function(){dpi=window.devicePixelRatio;var a='data-src'; if($('.js19 .slide0').hasAttr('src')) { a='src'; } $('.js19 .slide0').attr(a, (dpi>1) ? 'images/simulator-screen-shot-iphone-8-2019-07-20-at-04.12.18-416.png' : 'images/simulator-screen-shot-iphone-8-2019-07-20-at-04.12.18-208.png');
